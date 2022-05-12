@@ -4,7 +4,7 @@
   <img src="./Extras/Images/pepper banner.png" />
 </p>
 
-[![License](https://img.shields.io/github/license/itstylerrr/pepper?style=for-the-badge)](LICENSE) [![Contributors](https://img.shields.io/github/contributors/itstylerrr/pepper?style=for-the-badge)](https://github.com/itstylerrr/pepper/graphs/contributors) [![Support Server](https://img.shields.io/discord/849130218975526922?color=0099ff&logo=discord&logoColor=4e75e8&style=for-the-badge)](https://discord.gg/j2MfuWySfD) [![Deploy Status](https://img.shields.io/github/workflow/status/itstylerrr/pepper/Deploy%20to%20Heroku?label=Deploy&logo=github&style=for-the-badge)](.github/workflows/deploys.yml) [![Lint Status](https://img.shields.io/github/workflow/status/itstylerrr/pepper/Lint%20Checking?label=Lint&logo=github&style=for-the-badge)](.github/workflows/lint.yml)
+[![License](https://img.shields.io/github/license/itstylerrr/pepper?style=for-the-badge)](LICENSE) [![Contributors](https://img.shields.io/github/contributors/itstylerrr/pepper?style=for-the-badge)](https://github.com/itstylerrr/pepper/graphs/contributors) [![Support Server](https://img.shields.io/discord/971534964527087726?color=0099ff&logo=discord&logoColor=4e75e8&style=for-the-badge)](https://discord.gg/a7V6C4dAQj)
 
 Multipurpose Discord Bot. Full created with Discord.js Library at v13.6.0
 
